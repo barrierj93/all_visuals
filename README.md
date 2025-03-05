@@ -14,19 +14,12 @@ data: World Bank
 ![alt text](./files/CO2_emmisions.png)
 
 
-## Anonymous Report: 2012-2023 Attack series | Power BI
-
-Project & data: https://github.com/barrierj93/DataAnalysis_Anonymous_Attack_Series
-
-![alt text](./files/Anonymous_Attack-Series.png)
-
-
 
 ## Corporate dashboard | Power BI
 
 Project & data: https://github.com/barrierj93/Corporate-dashboard_Data-viz
 
-![alt text](./files/Acciona_ingresos-operativos.png)
+![alt text](./files/Acciona_ing-operativos.png)
 
 
 
@@ -35,3 +28,12 @@ Project & data: https://github.com/barrierj93/Corporate-dashboard_Data-viz
 Data: transfermarkt
 
 ![alt text](./files/sentencia-bosman.png)
+
+
+
+## Anonymous Report: 2012-2023 Attack series | Power BI
+
+Project & data: https://github.com/barrierj93/DataAnalysis_Anonymous_Attack_Series
+
+![alt text](./files/Anonymous_Attack-Series.png)
+
