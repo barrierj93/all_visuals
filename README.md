@@ -7,6 +7,7 @@ Project & data: https://github.com/barrierj93/EDA_Sesiones-Pendientes_Salud-ment
 
 ## CO2 emmisions dashboard | Tableau
 
+Project: https://public.tableau.com/app/profile/juli.n.barrera.antoniolli/viz/CO2Dashboard_17261787616320/Dash_dark3
 data: World Bank
 
 ![alt text](./files/CO2_emmisions.png)
